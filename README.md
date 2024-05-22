@@ -1,6 +1,6 @@
 # EX-Priv
 
-Welcome to the repository for "Enhancing the Resilience of LLMs against Grey-box Extractions." This code is adapted from the Llama-recipe repository.
+Welcome to the repository for "Enhancing the Resilience of LLMs against Grey-box Extractions." This code is adapted from the Llama-recipe repository(https://github.com/meta-llama/llama-recipes).
 
 ## Installation
 
